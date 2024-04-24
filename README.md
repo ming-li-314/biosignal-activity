@@ -11,3 +11,6 @@ The raw data comes from (https://physionet.org/content/scientisst-move-biosignal
 Areias Saraiva, J., Abreu, M., Carmo, A. S., Plácido da Silva, H., & Fred, A. (2024). ScientISST MOVE: Annotated Wearable Multimodal Biosignals recorded during Everyday Life Activities in Naturalistic Environments (version 1.0.1). PhysioNet. https://doi.org/10.13026/hyxq-r919.
 
 There are 17 participants. Each participant performs up to 8 activities. While each participant performs the activities, up to 14 biosignals are recorded. 
+
+The 8 Activities:
+'baseline','lift','greetings', 'gesticulate', 'jumps', 'walk_before','run', 'walk_after'.
