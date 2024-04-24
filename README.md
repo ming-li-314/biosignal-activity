@@ -24,3 +24,5 @@ The problem can be viewed as time series classification problem, which has been 
 * Convolutional Neural Network Based approach. 
 
 The full time series is divided into segments of predefined length (10 seconds for example). In the feature based approach, various features are extracted for each segment of the time series. These features could be describing the statistical distribution of the time series, the time domain features or features from the Fourier space. We have used the Neurokit2 package (https://github.com/neuropsychology/NeuroKit) and the Biobss package (https://github.com/obss/BIOBSS) to analyze the data and extract features. In the convolutional neural network based approach, all the time series segments are fed into the convolutional neural network. The CNN automatically learns from the segments of the time series. This is a one-dimensional analog to the two-dimensional image recognition problem. 
+
+![activity_counts](https://github.com/ming-li-314/biosignal-activity/assets/132095576/32de3b83-af43-4f08-a450-0d2fc4833657)
