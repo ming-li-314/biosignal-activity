@@ -16,5 +16,6 @@ The 8 activities are:
 * Baseline, Lift, Greetings, Gesticulate, Jumps, Walk_before, Run, Walk_after.
 
 The 14 biosignals are:
-* ecg:dry, ecg:gel, eda:dry, eda:gel, emg:Left Bicep, temp:temp, ppg:Left index finger, ppg:Left Wrist, acc_e4:z, acc_e4:x, acc_e4:y, acc_chest:x, acc_chest:y, acc_chest:z
+* ECG:dry, ECG:gel, EDA:dry, EDA:gel, EMG:Left Bicep, TEMP:temp, PPG:Left index finger, PPG:Left Wrist, ACC_e4:z, ACC_e4:x, ACC_e4:y, ACC_chest:x, ACC_chest:y, ACC_chest:z
 
+The problem can be viewed as time series classification problem, which have been extensively studied in the literature (see https://www.aeon-toolkit.org/en/stable/index.html). 
