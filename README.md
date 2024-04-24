@@ -21,4 +21,6 @@ The 14 biosignals are:
 The problem can be viewed as time series classification problem, which has been extensively studied in the literature (see https://www.aeon-toolkit.org/en/stable/index.html). There are many different methods to do time series classification. For our problem of human activity recognition from biosignal time series, we focus on the
 
 * Feature Based approach,
-* Convolution-Neural-Network Based approach. 
+* Convolution Neural Network Based approach. 
+
+The full time series is divided into segments of predefined length (10 seconds for example). In the feature based approach, various features are extracted for each segment of the time series. These features could be describing the statistical distribution of the time series, the time domain features or features from the Fourier space. We have used the Neurokit2 package (https://github.com/neuropsychology/NeuroKit) and the Biobss package (https://github.com/obss/BIOBSS) to analyze the data and extract features.
