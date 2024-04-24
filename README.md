@@ -5,7 +5,7 @@ This is the final course project for the data science boot camp (Spring 2024 coh
 The goal is to use machine learning models to recognize human activities from a collection of various time series biosignals (like ECG, EDA, ACC, etc).
 
 
-### The Data
+## The Data
 The raw data comes from (https://physionet.org/content/scientisst-move-biosignals/1.0.1/) : 
 
 Areias Saraiva, J., Abreu, M., Carmo, A. S., Plácido da Silva, H., & Fred, A. (2024). ScientISST MOVE: Annotated Wearable Multimodal Biosignals recorded during Everyday Life Activities in Naturalistic Environments (version 1.0.1). PhysioNet. https://doi.org/10.13026/hyxq-r919.
@@ -29,3 +29,5 @@ The full time series is divided into segments of predefined length (10 seconds f
 
 The data is high imbalanced among the 8 classes. For the "jump" activity, there are only 12 data points while for the "run" activity, there are approximately 2200 data points.
 This falls into the imbalanced multi-class classification problem, which is one of the major challenges of this project. 
+
+## Machine Learning Models
