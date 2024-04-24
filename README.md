@@ -13,11 +13,11 @@ Areias Saraiva, J., Abreu, M., Carmo, A. S., Plácido da Silva, H., & Fred, A. (
 There are 17 participants. Each participant performs up to 8 activities. While each participant performs the activities, up to 14 biosignals are recorded. 
 
 The 8 Activities:
-* 'baseline',
-* 'lift',
-* 'greetings',
-* 'gesticulate',
-* 'jumps',
-* 'walk_before',
-* 'run',
-* 'walk_after'.
+* Baseline,
+* Lift,
+* Greetings,
+* Gesticulate,
+* Jumps,
+* Walk_before,
+* Run,
+* Walk_after.
