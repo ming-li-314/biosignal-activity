@@ -18,4 +18,7 @@ The 8 activities are:
 The 14 biosignals are:
 * ECG:dry, ECG:gel, EDA:dry, EDA:gel, EMG:Left Bicep, TEMP:temp, PPG:Left index finger, PPG:Left Wrist, ACC_e4:z, ACC_e4:x, ACC_e4:y, ACC_chest:x, ACC_chest:y, ACC_chest:z
 
-The problem can be viewed as time series classification problem, which has been extensively studied in the literature (see https://www.aeon-toolkit.org/en/stable/index.html). There are many different methods to do time series classification. For our problem of human activity recognition from biosignal time series, we focus on the Feature Based approach and the Convolution-Neural-Network Based approach. 
+The problem can be viewed as time series classification problem, which has been extensively studied in the literature (see https://www.aeon-toolkit.org/en/stable/index.html). There are many different methods to do time series classification. For our problem of human activity recognition from biosignal time series, we focus on the
+
+* Feature Based approach,
+* Convolution-Neural-Network Based approach. 
