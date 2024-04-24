@@ -13,28 +13,8 @@ Areias Saraiva, J., Abreu, M., Carmo, A. S., Plácido da Silva, H., & Fred, A. (
 There are 17 participants. Each participant performs up to 8 activities. While each participant performs the activities, up to 14 biosignals are recorded. 
 
 The 8 activities are:
-* Baseline,
-* Lift,
-* Greetings,
-* Gesticulate,
-* Jumps,
-* Walk_before,
-* Run,
-* Walk_after.
+* Baseline, Lift, Greetings, Gesticulate, Jumps, Walk_before, Run, Walk_after.
 
 The 14 biosignals are:
-* ecg:dry 
-* ecg:gel
-* eda:dry
-* eda:gel
-* emg:Left Bicep
-* temp:temp
-* ppg:Left index finger
-* ppg:Left Wrist
-* acc_e4:z
-* acc_e4:x
-* acc_e4:y
-* acc_chest:x
-* acc_chest:y
-* acc_chest:z
-* 
+* ecg:dry, ecg:gel, eda:dry, eda:gel, emg:Left Bicep, temp:temp, ppg:Left index finger, ppg:Left Wrist, acc_e4:z, acc_e4:x, acc_e4:y, acc_chest:x, acc_chest:y, acc_chest:z
+
