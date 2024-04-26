@@ -31,14 +31,27 @@ The data is high imbalanced among the 8 classes. For the "jump" activity, there 
 This falls into the imbalanced multi-class classification problem, which is one of the major challenges of this project. 
 
 ## Machine Learning Models
+We have used three machine learning algorithms to model this multi-class classification problem:
+* RandomForestClassifier
+* XGBoostClassifier
+* RocketClassifier
 
-The XGBoostClassifier is used to perform the multiclass classification problem
+The confusion matrix on the test set are:
+
+For the RandomForestClassifier,
+<img width="639" alt="Screenshot 2024-04-25 at 10 10 55 PM" src="https://github.com/ming-li-314/biosignal-activity/assets/132095576/22b2149e-8ad1-4308-b752-17f2af4e75d7">
+
+
+
+
+
+For the XGBoostClassifier, 
 <img width="648" alt="Screenshot 2024-04-25 at 10 05 33 PM" src="https://github.com/ming-li-314/biosignal-activity/assets/132095576/7b353c99-e78a-493a-a70d-9bb51716c0da">
 
 
 
 
-The RocketClassifier, a convolutional neural network based algorithm from the "aeon" library is also used to modeling the problem.
+For the RocketClassifier, a convolutional neural network based algorithm from the "aeon" library,
 
 <img width="657" alt="Screenshot 2024-04-25 at 4 17 13 PM" src="https://github.com/ming-li-314/biosignal-activity/assets/132095576/003ead06-a6e8-4426-8596-0562307aa680">
 
