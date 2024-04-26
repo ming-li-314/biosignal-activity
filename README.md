@@ -37,8 +37,8 @@ We have used three machine learning algorithms to model this multi-class classif
 * RocketClassifier
 
 The confusion matrix on the test set are:
-
 For the RandomForestClassifier,
+
 <img width="639" alt="Screenshot 2024-04-25 at 10 10 55 PM" src="https://github.com/ming-li-314/biosignal-activity/assets/132095576/22b2149e-8ad1-4308-b752-17f2af4e75d7">
 
 
@@ -46,6 +46,7 @@ For the RandomForestClassifier,
 
 
 For the XGBoostClassifier, 
+
 <img width="648" alt="Screenshot 2024-04-25 at 10 05 33 PM" src="https://github.com/ming-li-314/biosignal-activity/assets/132095576/7b353c99-e78a-493a-a70d-9bb51716c0da">
 
 
