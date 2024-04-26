@@ -50,6 +50,10 @@ For the XGBoostClassifier,
 <img width="648" alt="Screenshot 2024-04-25 at 10 05 33 PM" src="https://github.com/ming-li-314/biosignal-activity/assets/132095576/7b353c99-e78a-493a-a70d-9bb51716c0da">
 
 
+The most important features come from the ACC biosignal
+
+<img width="775" alt="Screenshot 2024-04-25 at 10 17 18 PM" src="https://github.com/ming-li-314/biosignal-activity/assets/132095576/e6c00f66-55e7-47e7-9715-9818ac3b7417">
+
 
 
 For the RocketClassifier, a convolutional neural network based algorithm from the "aeon" library,
