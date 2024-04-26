@@ -32,8 +32,9 @@ This falls into the imbalanced multi-class classification problem, which is one 
 
 ## Machine Learning Models
 
-The XGBoostClassifier is used to perform the multiclass classification problem.
-![image](https://github.com/ming-li-314/biosignal-activity/assets/132095576/1986a787-a419-492a-b703-c4d89c673a69)
+The XGBoostClassifier is used to perform the multiclass classification problem
+<img width="648" alt="Screenshot 2024-04-25 at 10 05 33 PM" src="https://github.com/ming-li-314/biosignal-activity/assets/132095576/7b353c99-e78a-493a-a70d-9bb51716c0da">
+
 
 
 
