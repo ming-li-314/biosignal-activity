@@ -33,6 +33,11 @@ This falls into the imbalanced multi-class classification problem, which is one 
 ## Machine Learning Models
 
 The XGBoostClassifier is used to perform the multiclass classification problem.
+![image](https://github.com/ming-li-314/biosignal-activity/assets/132095576/1986a787-a419-492a-b703-c4d89c673a69)
+
+
+
+The RocketClassifier, a convolutional neural network based algorithm from the "aeon" library is also used to modeling the problem.
 
 <img width="657" alt="Screenshot 2024-04-25 at 4 17 13 PM" src="https://github.com/ming-li-314/biosignal-activity/assets/132095576/003ead06-a6e8-4426-8596-0562307aa680">
 
